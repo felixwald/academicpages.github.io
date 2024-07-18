@@ -21,7 +21,7 @@ repository               : "felixwald/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "fw_portrait.png"
+  avatar           : "IEEE_Portraint_pic.png"
   name             : "Felix Wald"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student"
